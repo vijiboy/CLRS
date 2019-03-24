@@ -1,7 +1,0 @@
-
-
-* Chapter 1: The Role of Algorithms in Computing
-** TODO Notes
-** TODO Exercises
-* Chapter 2: Getting Started
-** TODO 2.1 Loop Invariants and algorithm correctness
